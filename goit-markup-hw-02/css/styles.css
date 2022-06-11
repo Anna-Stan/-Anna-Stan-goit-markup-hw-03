@@ -34,7 +34,7 @@ img {
 .list {list-style: none;}
 
 .container {
-    width: 1230px;
+    width: 1200px;
     padding-left: 15px;
     padding-right: 15px;
     margin: 0 auto;
@@ -46,8 +46,9 @@ img {
 
 
 .header {
-    padding-top: 32px;
-    padding-bottom: 32px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    border: 1px solid #ECECEC;
 }
 
 
@@ -103,10 +104,12 @@ align-items: center;}
 
 /*--------Main------------- */
 
+.main-container {padding-top: 94px;
+padding-bottom: 94px;}
+
 
 .btn {display: block;
-padding-top: 94px;
-padding-bottom: 94px;
+margin-bottom: 34px;
 }
 
 .btn-list {display: flex;
@@ -172,7 +175,6 @@ padding: 20px 24px 20px 24px;}
     font-size: 18px;
     line-height: 2;
     color: #212121;
-    margin-top: 20px;
     margin-bottom: 4px;
 }
 

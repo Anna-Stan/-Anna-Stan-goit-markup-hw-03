@@ -29,7 +29,7 @@ img {
     list-style: none;
 }
 
-.container {width: 1230px;
+.container {width: 1200px;
 padding-left: 15px;
 padding-right: 15px;
 margin: 0 auto;
@@ -37,8 +37,8 @@ outline: 1px solid red;}
 
 /*---------Header-----------*/
 
-.header {padding-top: 32px;
-padding-bottom: 32px;}
+.header {padding-top: 24px;
+padding-bottom: 24px;}
 
 .logo {
     font-family: 'Raleway';
@@ -149,7 +149,7 @@ padding-bottom: 200px;
 /*-------------------content--------------------*/
 
 .content {padding-top: 94px;
-padding-bottom: 94px;}
+padding-bottom: 47px;}
 
 .content-list {display: flex;}
 
@@ -195,7 +195,7 @@ padding-bottom: 94px;}
 
 /*---------cards---------*/
 
-.cards {padding-top: 94px;
+.cards {padding-top: 47px;
 padding-bottom: 94px;}
 
 .cards-list {display: flex;
